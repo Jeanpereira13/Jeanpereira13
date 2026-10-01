@@ -20,14 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jean Pereira de Araújo&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean Pereira de Araújo&layout=compact&theme=radium&hide=html,css"/>
-</div>
 
 ---
 
