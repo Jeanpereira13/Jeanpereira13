@@ -1,4 +1,4 @@
-# Olá, eu sou o Jean! 👋
+# Olá, eu sou o Jean! 👋🏾
 
 🎓 **Estudante de Ciência da Computação (2º Semestre) na UniBH**  
 💻 Focado no aprendizado e desenvolvimento com **Java** e **Orientação a Objetos (POO)**.
