@@ -3,6 +3,7 @@
 🎓 **Estudante de Ciência da Computação (2º Semestre) na UniBH**  
 💻 Focado no aprendizado e desenvolvimento com **Java** e **Orientação a Objetos (POO)**.
 
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" alt="Java" />
 ---
 
 ### 🚀 Sobre Mim
